@@ -173,8 +173,7 @@ nav button{
     display: flex;
     justify-content: center;
     max-width: 70vw;
-    /* min-height: auto; */
-    height: 60vh;
+    min-height: auto;
     padding: 4.5rem 0px;
     margin: auto;
     color: white;
